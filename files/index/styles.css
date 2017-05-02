@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:364px;
+  width:358px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -16,8 +16,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:366px;
-  height:580px;
+  width:360px;
+  height:576px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -33,14 +33,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:366px;
-  height:580px;
+  width:360px;
+  height:576px;
 }
 #u1 {
   position:absolute;
   left:2px;
-  top:282px;
-  width:362px;
+  top:280px;
+  width:356px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -55,7 +55,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:328px;
+  width:323px;
   height:51px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -72,8 +72,8 @@
 #u3 {
   position:absolute;
   left:18px;
-  top:103px;
-  width:328px;
+  top:102px;
+  width:323px;
   height:51px;
   font-size:20px;
 }
@@ -81,7 +81,7 @@
   position:absolute;
   left:2px;
   top:18px;
-  width:324px;
+  width:319px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -89,7 +89,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:292px;
+  width:287px;
   height:39px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -106,9 +106,9 @@
 }
 #u5 {
   position:absolute;
-  left:33px;
-  top:110px;
-  width:292px;
+  left:32px;
+  top:109px;
+  width:287px;
   height:39px;
   font-family:'Heiti SC Regular', 'Heiti SC';
   font-weight:200;
@@ -120,7 +120,7 @@
   position:absolute;
   left:0px;
   top:6px;
-  width:292px;
+  width:287px;
   word-wrap:break-word;
 }
 #u7 {
@@ -134,7 +134,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:328px;
+  width:323px;
   height:51px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -151,8 +151,8 @@
 #u8 {
   position:absolute;
   left:18px;
-  top:186px;
-  width:328px;
+  top:185px;
+  width:323px;
   height:51px;
   font-size:20px;
 }
@@ -160,7 +160,7 @@
   position:absolute;
   left:2px;
   top:18px;
-  width:324px;
+  width:319px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -168,7 +168,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:292px;
+  width:287px;
   height:39px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -185,9 +185,9 @@
 }
 #u10 {
   position:absolute;
-  left:33px;
-  top:193px;
-  width:292px;
+  left:32px;
+  top:192px;
+  width:287px;
   height:39px;
   font-family:'Heiti SC Regular', 'Heiti SC';
   font-weight:200;
@@ -199,7 +199,7 @@
   position:absolute;
   left:0px;
   top:6px;
-  width:292px;
+  width:287px;
   word-wrap:break-word;
 }
 #u12_div {
@@ -220,7 +220,7 @@
 #u12 {
   position:absolute;
   left:18px;
-  top:350px;
+  top:348px;
   width:71px;
   height:16px;
   color:#0000FF;
@@ -243,21 +243,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:368px;
+  width:362px;
   height:62px;
 }
 #u15 {
   position:absolute;
   left:-2px;
   top:-10px;
-  width:368px;
+  width:362px;
   height:62px;
 }
 #u16 {
   position:absolute;
   left:2px;
   top:23px;
-  width:364px;
+  width:358px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -265,7 +265,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:96px;
+  width:94px;
   height:24px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -280,9 +280,9 @@
 }
 #u17 {
   position:absolute;
-  left:134px;
+  left:132px;
   top:11px;
-  width:96px;
+  width:94px;
   height:24px;
   font-size:20px;
   color:#FFFFFF;
@@ -292,14 +292,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:96px;
+  width:94px;
   word-wrap:break-word;
 }
 #u19_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:328px;
+  width:323px;
   height:57px;
   background:inherit;
   background-color:rgba(51, 204, 102, 1);
@@ -312,15 +312,15 @@
 #u19 {
   position:absolute;
   left:18px;
-  top:263px;
-  width:328px;
+  top:261px;
+  width:323px;
   height:57px;
 }
 #u20 {
   position:absolute;
   left:2px;
   top:20px;
-  width:324px;
+  width:319px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -344,8 +344,8 @@
 }
 #u21 {
   position:absolute;
-  left:155px;
-  top:276px;
+  left:152px;
+  top:274px;
   width:49px;
   height:28px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
